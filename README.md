@@ -29,4 +29,4 @@ We welcome contributions to this project! Please submit pull requests with your 
 
 • License:
 
-This project is licensed under the MIT License (see LICENSE file for details).
+This project is licensed under the MIT License.
