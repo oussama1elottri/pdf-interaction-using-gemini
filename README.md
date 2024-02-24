@@ -1,6 +1,6 @@
 • Prerequisites:
 
-    Python 3.7 or higher
+    Python 3.10 or higher
     streamlit package
     requests package
 
