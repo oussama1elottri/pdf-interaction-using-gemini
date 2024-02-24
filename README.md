@@ -1,10 +1,6 @@
-# SOHIB
-School Of AI Bot 
-
-
 • Prerequisites:
 
-    Python 3.10 or higher
+    Python 3.7 or higher
     streamlit package
     requests package
 
@@ -17,9 +13,9 @@ School Of AI Bot
 
 • Environment Variables:
 
-    Create a .env file at the root of your project and add your Gemini API key:
+Create a .env file at the root of your project and add your Gemini API key:
 
-    GEMINI_API_KEY=your_api_key
+GEMINI_API_KEY=your_api_key
 
 • Running the Project:
 
@@ -29,7 +25,8 @@ School Of AI Bot
 
 • Contributing:
 
-    We welcome contributions to this project! Please submit pull requests with your improvements or bug fixes.
+We welcome contributions to this project! Please submit pull requests with your improvements or bug fixes.
 
-License:
+• License:
+
 This project is licensed under the MIT License (see LICENSE file for details).
